@@ -1,7 +1,7 @@
 # Surface EMG-Based Hand Gesture Recognition
 
-**Farzan Aghaei · Sanaz Mazraeh**  
-Sharif University of Technology · Sensors and Measurements
+**Farzan Aghaei · Sanaz Mazrae**  
+Sharif University of Technology · Sensing and Measurements
 
 Classification of 17 hand and wrist gestures using 12-channel surface EMG from NinaPro DB2 (Subject 14, Exercise 1). Signal preprocessing, feature extraction, classification, plots, and evaluation are implemented in one executable Jupyter notebook.
 
